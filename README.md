@@ -1,5 +1,8 @@
-## Personal Information - Team Profile:
-    **Team Name: 'Team Name'**
+## Team Profile
+
+**Team Name**: 'Team Name'
+
+**Personal Information
 
 **Name**: Colin Madusanka Jayasekara
 
@@ -33,5 +36,17 @@ An interesting fact about me is that I got detention on my first week of primary
 
 My name is Andy Lo, was born in August of 1997. My Student ID is S399772 and my email is S3599772@student.rmit.edu.au. My family is Catholic so attending church on Sunday was a childhood memory for me. I came from Hong Kong to Australia to attend high school and then to RMIT. During this year, I will graduate from bachelor and seek for accounting job. My favourite food is noodles. My hobbies include watching YouTube videos and play mobile games. If there is more time on holiday period, I may travel to a suburb near my home and take a refreshing walk. Our group tried to think of a team name related to Asian as we have a connection with that. Even so, “Team Name” is better, I believe without any specific reason. 
 
+**Team Profile
+Colin's test results:
+![Colin](colin test 1.jpg)
+![Colin](colin test 2.jpg)
+![Colin](colin test 3.jpg)
+![Colin](colin test 1.1.jpg)
+![Colin](colin test 1.2.jpg)
+![Colin](colin test 1.3.jpg)
 
+These test results show that I am capable of achieving my goals, although there are some things that I must fix in order to get to my desired job position faster, where I would need to immerse myself in team discussions and be more vocal and outgoing when it comes to socializing as it will lead to connecting with important people in my area of work which can boost my probabilities of moving up the hierarchical chain.
 
+These test results indicate that I would work well in teams and that I would be fit to be a team leader if and when needed to be, therefore I believe that my personal skills might be valuable as I would be able to coordinate tasks and overall goal accomplishments as I apparently have a good ability to understand individuals which means that I would be able to divide tasks up between people according to what I believe would be their individual strengths thus making a more effective and efficient team.
+
+I'm not worried too much about what team I end up with since I won’t be able to choose which team members I can work with when I get a job and hence I would be required to work with whoever is there. Due to this I would try to take tasks that would fit my personal skills like creativity better, I will try to do parts of the project that would be a lot easier for me to accomplish so as to not inconvenience the entire team thus reducing efficiency.
