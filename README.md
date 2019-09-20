@@ -1,5 +1,5 @@
 ## Personal Information - Team Profile:
-## Team Name: 'Team Name'
+    **Team Name: 'Team Name'**
 
 **Name**: Colin Madusanka Jayasekara
 
