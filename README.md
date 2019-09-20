@@ -1,8 +1,11 @@
-## Team Profile
+# Team Profile
 
 **Team Name**: 'Team Name'
 
-**Personal Information**
+##Personal Information
+
+
+## Colin
 
 **Name**: Colin Madusanka Jayasekara
 
@@ -13,6 +16,9 @@
 **Date of Birth**: 21/08/1996
 
 My name is Colin Madusanka Jayasekara but my full name is Jayasekara Mudiyanselage Colin Madusanka Jayasekara which happens to be title given by kings to those who are loyal to the throne, I was born on 21st August 1996. My Student ID is S3670061 and my email is S3670061@student.rmit.edu.au. I am a Sri Lankan born in Colombo, Sri Lanka and I was born to a Buddhist family, hence I am classified as a Buddhist. I am a 23-year-old Male with a height of 173cm (or 5’8) and I am currently living in Melbourne, Australia attending The Royal Melbourne Institute of Technology (RMIT) studying for my Bachelors of Engineering in Aerospace Engineering, I am due to complete my course in 2021 and I hope to be working in an aerospace company or start my own in Australia or Sri Lanka, I also speak 2 languages Sinhala and English and I am also open to learning more languages. My favorite hobbies include playing games, watching videos on YouTube and daydreaming about multitudes of possibilities that might/might not occur. I also like to research random things on the internet when it comes to my mind, like how to code in Python or how to make mini Drones/Rockets or watching any other sort of documentary that I feel like intrigues or interests me. Our team name for this project is “Team Name” since we thought it would be ironic and deadpan funny for a team to have such a name.
+
+
+## Harlee
 
 **Name**: Harlee Horng
 
@@ -26,6 +32,9 @@ My name is Harlee Horng, born in Australia in the year of 1999. My nationality i
 
 An interesting fact about me is that I got detention on my first week of primary school because I chased other students around with a stick. Oddly enough, my personality has shifted dramatically from when I was a child. I used to be confident and outgoing, contrasted to how I am now - which is quiet, introverted and antisocial.
 
+
+## Andy
+
 **Name**: Andy Lo
 
 **Student Number**: s3599772
@@ -36,7 +45,7 @@ An interesting fact about me is that I got detention on my first week of primary
 
 My name is Andy Lo, was born in August of 1997. My Student ID is S399772 and my email is S3599772@student.rmit.edu.au. My family is Catholic so attending church on Sunday was a childhood memory for me. I came from Hong Kong to Australia to attend high school and then to RMIT. During this year, I will graduate from bachelor and seek for accounting job. My favourite food is noodles. My hobbies include watching YouTube videos and play mobile games. If there is more time on holiday period, I may travel to a suburb near my home and take a refreshing walk. Our group tried to think of a team name related to Asian as we have a connection with that. Even so, “Team Name” is better, I believe without any specific reason. 
 
-**Team Profile**
+## Team Profile
 
 Colin's test results:
 
@@ -81,10 +90,10 @@ Andy's test results:
 
 The test results show my way of living in general and have my attitude at work analyzed. Big Five Personality test judges that preference for me not seeking much attention from others, and corporate instead of compete is preferred, as the grade for extraversion is 40% and agreeableness is 58%. The results may not be 100% correct and won’t affect my preference of choosing a group. Nonetheless, it provided a clear picture of my role in a team.
 
-**Ideal Jobs**
+## Ideal Jobs
 All our jobs involve; working in a team environment, good communication skills and knowledge of IT skills relevant to each job. We had differing jobs from one another. Harlee aims towards an ‘IT Support help desk job’ in the IT field, whereas Andy wants to become an ‘Accounts Officer’ which is in the accounting field and Colin wishes to become a ‘Vice-President of Strategic Capture’ in the engineering field. Each of our jobs are in different fields and require different amounts of experience in order to achieve them. While Harlee and Andy aim for a job with minimal previous experience (less than 3 years) to attain them, Colin wishes to end up with a job as vice president which requires approximately 15 years of previous experience in the field.
 
-## Industry Data
+# Industry Data
 
 **1. What are the Job Titles for your group’s ideal jobs? How do each of these rank in terms of demand from employers?**
 Harlee’s ideal job title is an ‘IT support’ desk job, while Colin’s ideal job title is ‘Vice-President of Strategic Capture’ and Andy’s ideal job is an Accounts Officer’. An ‘IT support’ job is seemingly a job low in demand as it is ranked either very low or unranked. A position such as vice-president of a company would most likely be a job high in demand as it is high on the job hierarchy with many benefits; such as job security, good pay, etc. An ‘Accounts Officer’ job is another job which ranks highly in terms of demand.
@@ -111,7 +120,7 @@ The three highest ranked general skills which are not in our required skill set 
 
 Having looked at statistics of my ideal job in comparison to other jobs, my opinion on my chosen ideal job has not changed. This is because it is my passion and I believe that it would be better to have a job which you are passionate about instead of a job which you don’t like for the purpose of its demand by employees.
 
-## IT Work
+# IT Work
 
 **Approach: interview an IT professional**
 We interviewed a contract System Analyst, Benny Lo, working in the Government of Hong Kong Special Administrative Region.
@@ -141,9 +150,9 @@ The daily job includes:
 **4. What aspect of their position is most challenging?**
 The most difficult and challenging parts of the job is giving advice to enquires from various departments regarding the use of the prevailing terms and conditions in order to fulfill their specific IT contract or IT tender requirements. Also, since the terms and conditions are generally laid down to suit most of the IT contracts and IT tenders procurement, it has to be continuously maintained to cater for the changing IT industry and technology.
 
-## IT Technologies
+# IT Technologies
 
-**Autonomous vehicles**
+## Autonomous vehicles
 
 **What does it do? (600 words) What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible? **
 
@@ -165,7 +174,7 @@ These systems might make my personal life easier since as an Aerospace Engineer 
 My transport life would be much faster and more efficient than current methods and based on what professions my family members decide to pursue it can either aid them in their respective fields or deprive them of their career due to Autonomous systems, How it affects you depends on where you work and how much of it you let it get to your head, If you continue working in a way that make you stand out, I believe will make you much more of an asset than a liability to your respective place of work.
 
 
-**Cybersecurity**
+## Cybersecurity
 
 **What does it do? (600 words) What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible?**
 
@@ -184,7 +193,7 @@ Cybersecurity is definitely an important factor in life, especially in this curr
 As a social media user, it is unnerving to know that data can be leaked at any time, ranging from personal information to bank account details. Social media is extremely popular, so much so that even children below the required age have accounts. This leaves them vulnerable to cyber-attacks from predators.
 
 
-**Natural Language processing and chatterbots**
+## Natural Language processing and chatterbots
 
 **What does it do? (600 words) What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible?**
 
@@ -212,8 +221,7 @@ For financial service, business trader and financial information manager usually
 
 NLP and chatterbot I have countered personally are email and internet search result filters, Google Translate and online chatterbot. When my family, friends, and myself are struggling to find a certain email sent by any of us, we can locate it by using filter and folder. In my major course (accounting) industry, NLP technology can categorize and analyse the client’s issue and relevant taxation case law.Human accountant can provide a more appropriate advice by learning the customer through chatterbot.When I have a trip to other countries, I always use Google Translate to communicate with people over there.  I can ask what I need to know in my own language and the people over there can understand and answer my queries in their own language.  It is quite handy and useful in most time but sometimes the translation cannot translate my words correctly, it will make me frustrating and wasting more time in trying another wordings input to hope the translated outcome is correct than using other methods to solve the problems.  When using the applications or products that adopts the Natural Language processing, we will rely more on the technology and become lazy.  For example we will think that it is wasting of time to learn foreign language since some products have already provide the convenience and facility that you can make use. Although the chatterbot can answer simple enquiries, sometimes it will irritate me when I am answered in totally wrong direction. For a company with good implementation and adoption of the chatterbot technology will make me feel that the company is serving her customers with great considerations, on the contrary, it will give me very impression of the company.  With the more advancement of the new technology, there is more risk of artificial intelligence may take over control human over various aspects of life.
  
-## Project Ideas
-
+# Project Ideas
 
 In these technologically advanced times where we are more connected to each other than ever before from multiple devices with access to an almost infinite database of quick information at the touch of a screen button, we have yet to make it easy for young adults or for anyone not informed to gain access to the basics of sex education.
 
@@ -224,7 +232,7 @@ The Idea is to develop a chatterbot that would be able to communicate with the u
 
 The format of the chatterbot will be a basic design to make sure that the kids and adults concentrate on the information and not the color palette used in the chatterbot, it will also have a chatterbot mascot that will be animated for movements that will be the face of sex education which will make it easier for our younger visitors to interact with, however the drawing will not be too overly cartoonish to the point of it being a joke but it will have a professional look to it at first glance, mascot designs types can be drawn and tested in upcoming weeks. 
 
-## Group Reflection
+# Group Reflection
 
 **What went well**
 The group members did their allocated sections well and within the given time, The report formation and other related tasks such as interviews were successfully completed thanks to the group members, we were able to push through even with only 4 active members without too much of a hassle. The teamwork of this group was excellent, where each member took the initiative in getting the due tasks done even with other course assignments and projects due at the same time.
