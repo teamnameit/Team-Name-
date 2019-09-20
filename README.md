@@ -133,6 +133,7 @@ The IT professional needs to interact with users from various operational depart
  
 **3. Where does the IT professional spend most of their time?**
 The daily job includes: 
+
 -input of crucial information of government IT contracts into the contract information system and maintain the data integrity
 
 -support the operations of contract information system
