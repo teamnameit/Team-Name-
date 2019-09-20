@@ -47,7 +47,7 @@ My name is Andy Lo, was born in August of 1997. My Student ID is S399772 and my 
 
 ## Team Profile
 
-Colin's test results:
+**Colin's test results:**
 
 
 ![Colin](colin test 1.png)
@@ -68,7 +68,7 @@ These test results indicate that I would work well in teams and that I would be 
 
 I'm not worried too much about what team I end up with since I won’t be able to choose which team members I can work with when I get a job and hence I would be required to work with whoever is there. Due to this I would try to take tasks that would fit my personal skills like creativity better, I will try to do parts of the project that would be a lot easier for me to accomplish so as to not inconvenience the entire team thus reducing efficiency.
 
-Harlee's test results:
+**Harlee's test results:**
 
 
 ![Harlee](harlee test 1.png)
@@ -79,7 +79,7 @@ Harlee's test results:
 
 The results of these tests show that I am introverted and prefer to work independently. They convey that I take a more observant approach to group work and participate with low levels of openness. I believe that because I am more inclined to agree with people, it would cause less disruption and arguments in a team. As a result, I feel that I would be a good group member in terms of completing my part of the project. Regarding forming a team, I think it would be best to group up with people with the same or similar attributes as I have.
 
-Andy's test results:
+**Andy's test results:**
 
 
 ![Andy](andy test 1.png)
