@@ -40,10 +40,15 @@ My name is Andy Lo, was born in August of 1997. My Student ID is S399772 and my 
 
 Colin's test results:
 ![Colin](colin test 1.png)
+
 ![Colin](colin test 2.png)
+
 ![Colin](colin test 3.png)
+
 ![Colin](colin test 1.1.png)
+
 ![Colin](colin test 1.2.png)
+
 ![Colin](colin test 1.3.png)
 
 These test results show that I am capable of achieving my goals, although there are some things that I must fix in order to get to my desired job position faster, where I would need to immerse myself in team discussions and be more vocal and outgoing when it comes to socializing as it will lead to connecting with important people in my area of work which can boost my probabilities of moving up the hierarchical chain.
@@ -54,14 +59,18 @@ I'm not worried too much about what team I end up with since I won’t be able t
 
 Harlee's test results:
 ![Harlee](harlee test 1.png)
+
 ![Harlee](harlee test 2.png)
+
 ![Harlee](harlee test 3.png)
 
 The results of these tests show that I am introverted and prefer to work independently. They convey that I take a more observant approach to group work and participate with low levels of openness. I believe that because I am more inclined to agree with people, it would cause less disruption and arguments in a team. As a result, I feel that I would be a good group member in terms of completing my part of the project. Regarding forming a team, I think it would be best to group up with people with the same or similar attributes as I have.
 
 Andy's test results:
 ![Andy](andy test 1.png)
+
 ![Andy](andy test 2.png)
+
 ![Andy](andy test 3.png)
 
 The test results show my way of living in general and have my attitude at work analyzed. Big Five Personality test judges that preference for me not seeking much attention from others, and corporate instead of compete is preferred, as the grade for extraversion is 40% and agreeableness is 58%. The results may not be 100% correct and won’t affect my preference of choosing a group. Nonetheless, it provided a clear picture of my role in a team.
