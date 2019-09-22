@@ -2,8 +2,6 @@
 
 # Team Profile
 
-<body style="background-color:orange;">
-
 **Team Name**: 'Team Name'
 
 ## Personal Information
