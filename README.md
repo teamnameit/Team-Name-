@@ -171,7 +171,7 @@ The most difficult and challenging parts of the job is giving advice to enquires
 
 ## Autonomous vehicles
 
-**What does it do? (600 words) What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible? **
+**What does it do? (600 words) What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible?**
 
 Autonomous vehicles are self controlled modes of transport (road vehicles, aircrafts, ships, spacecrafts) that would take the job of controlling and directing the respective transport  mode off the hand of a real human being and accomplish the same task on it’s own, This means that the route it will take from it’s starting point to destination will be made onboard on its own internal computer as well as the actual driving of it while also accounting for the real-time traffic, weather and other factors. This technology is capable of increasing the road, flight, shipping and space travel safety if done correctly and is also capable of making the entirety of the transport movements more efficient and less time consuming than our current condition. 
 
