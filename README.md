@@ -1,4 +1,4 @@
-# Team Profile
+<p align="center">
 
 **Team Name**: 'Team Name'
 
