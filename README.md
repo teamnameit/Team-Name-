@@ -264,11 +264,11 @@ The level of expertise required to make any of our project ideas become a realit
 The level of responsibility a team leader must have is immense, there's alot of factors to consider as well as obstacles faced during the course of this project, and finding answers when you are placed on the spot as a team leader is anxiety-inducing as well as requiring a high level of tolerance and patience. All of which will be tested throughout the course of this project. Teamwork is also paramount to the successful completion of any project and without teamwork, the overall morale and efficiency of the group lowers which affects team performance.
 
 
-![Minutes](meeting 1.png)
+![Minutes](meeting 1.PNG)
 
-![Minutes](meeting 2.png)
+![Minutes](meeting 2.PNG)
 
-![Minutes](meeting 3.png)
+![Minutes](meeting 3.PNG)
 
-![Minutes](meeting 4.png)
+![Minutes](meeting 4.PNG)
 
