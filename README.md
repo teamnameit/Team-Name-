@@ -7,6 +7,7 @@
 
 ## Colin
 
+
 ![Colin](colin pic.png)
 
 **Name**: Colin Madusanka Jayasekara
@@ -21,6 +22,7 @@ My name is Colin Madusanka Jayasekara but my full name is Jayasekara Mudiyansela
 
 
 ## Harlee
+
 
 ![Harlee](harlee pic.jpg)
 
@@ -38,6 +40,7 @@ An interesting fact about me is that I got detention on my first week of primary
 
 
 ## Andy
+
 
 ![Andy](andy pic.jpg)
 
