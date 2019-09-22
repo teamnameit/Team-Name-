@@ -7,6 +7,8 @@
 
 ## Colin
 
+![Colin](colin pic.png)
+
 **Name**: Colin Madusanka Jayasekara
 
 **Student Number**: s3670061
@@ -19,6 +21,8 @@ My name is Colin Madusanka Jayasekara but my full name is Jayasekara Mudiyansela
 
 
 ## Harlee
+
+![Harlee](harlee pic.jpg)
 
 **Name**: Harlee Horng
 
@@ -34,6 +38,8 @@ An interesting fact about me is that I got detention on my first week of primary
 
 
 ## Andy
+
+![Andy](andy pic.jpg)
 
 **Name**: Andy Lo
 
