@@ -139,7 +139,7 @@ Having looked at statistics of my ideal job in comparison to other jobs, my opin
 
 **Approach: interview an IT professional**
 We interviewed a contract System Analyst, Benny Lo, working in the Government of Hong Kong Special Administrative Region.
-
+![interviewee](interviewee.jpg)
 **1. What kind of work is done by the IT professional?**
 The IT professsional carries out IT contracts, administration, support and update of terms of conditions of IT tender procurements.
  
