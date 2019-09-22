@@ -1,6 +1,7 @@
 <body style="background-color:beige;">
 
 # Team Profile
+
 <body style="background-color:orange;">
 
 **Team Name**: 'Team Name'
