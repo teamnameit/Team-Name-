@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body style="background-color:beige;">
-
-
 # Team Profile
 
 **Team Name**: 'Team Name'
