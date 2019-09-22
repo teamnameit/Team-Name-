@@ -1,12 +1,12 @@
 
 <html>
-<body style="background-color:orange;">
+<body style="background-color:green;">
 
 
-.center[# Team Profile]
-=======
+[# Team Profile]
+
 <body style="background-color:orange;">
->>>>>>> master
+
 
 # Team Profile
 
