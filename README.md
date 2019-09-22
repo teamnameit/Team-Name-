@@ -1,5 +1,3 @@
-<p align="center">
-
 **Team Name**: 'Team Name'
 
 ## Personal Information
