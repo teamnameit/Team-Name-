@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:orange;">
+
+
 # Team Profile
 
 **Team Name**: 'Team Name'
@@ -261,3 +266,6 @@ The level of expertise required to make any of our project ideas become a realit
 
 **At least one thing that you have learned about groups**
 The level of responsibility a team leader must have is immense, there's alot of factors to consider as well as obstacles faced during the course of this project, and finding answers when you are placed on the spot as a team leader is anxiety-inducing as well as requiring a high level of tolerance and patience. All of which will be tested throughout the course of this project. Teamwork is also paramount to the successful completion of any project and without teamwork, the overall morale and efficiency of the group lowers which affects team performance.
+
+</body>
+</html>
