@@ -265,6 +265,10 @@ The level of responsibility a team leader must have is immense, there's alot of 
 
 
 ![Minutes](meeting 1)
+
 ![Minutes](meeting 2)
+
 ![Minutes](meeting 3)
+
 ![Minutes](meeting 4)
+
