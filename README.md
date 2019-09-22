@@ -1,6 +1,4 @@
-
-<html>
-<body style="background-color:green;">
+<body style="background-color:beige;">
 
 # Team Profile
 <body style="background-color:orange;">
