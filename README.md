@@ -3,7 +3,7 @@
 <body style="background-color:green;">
 
 
-[# Team Profile]
+# Team Profile
 
 <body style="background-color:orange;">
 
