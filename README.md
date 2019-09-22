@@ -1,8 +1,8 @@
-# Team Profile
+.center[# Team Profile]
 
-**Team Name**: 'Team Name'
+.left [**Team Name**: 'Team Name']
 
-## Personal Information
+.right[## Personal Information]
 
 
 ## Colin
