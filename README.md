@@ -2,13 +2,8 @@
 <html>
 <body style="background-color:green;">
 
-
 # Team Profile
-
 <body style="background-color:orange;">
-
-
-# Team Profile
 
 **Team Name**: 'Team Name'
 
