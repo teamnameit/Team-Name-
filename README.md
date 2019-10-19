@@ -168,6 +168,9 @@ Figure 5: Response data inputs.
 
 ## Timeframe
 
+![Timeframe](timeframe.png)
+
+
 ## Risks
 It is planned that the use of our project will be incorporated in schools around the world as a guide for young students in sex education courses to educate them about important sex topics.  A risk associated with a program is that it requires the participant to be proactive. They may not take the opportunity to learn about sex education due to many factors. Some of these factors could include being; shy around the topic of sex education, embarrassed to seek information, unaware of the importance of sex education and scared to seek help.
 
