@@ -5,7 +5,7 @@
 ## Personal Information
 
 
-## Colin
+## Colin:
 
 
 ![Colin](colin pic.jpg)
@@ -22,7 +22,7 @@ My name is Colin Madusanka Jayasekara but my full name is Jayasekara Mudiyansela
 Individual website: [Colin's website](https://colinjayasekara.github.io/?fbclid=IwAR3ECfmlPpG9mkYEJloz5BvL4W23hQQEVSz7JTlk6spQVdvwqAI-8UvlnKU) 
 
 
-## Harlee
+## Harlee:
 
 
 ![Harlee](harlee pic.jpg)
@@ -42,7 +42,7 @@ An interesting fact about me is that I got detention on my first week of primary
 Individual website: [Harlee's website](https://hharlee.github.io/ProfileHarlee) 
 
 
-## Andy
+## Andy:
 
 
 ![Andy](andy pic.jpg)
@@ -60,10 +60,10 @@ My name is Andy Lo, was born in August of 1997. My Student ID is S399772 and my 
 Individual website: [Andy's website](https://andy3599772.github.io/) 
 
 
-## Group Processes
+## Group Processes:
 Our group worked remarkably with access to Facebook messenger to communicate progress on our individually assigned roles as well as a google drive repository set for all members to submit their work and eventually add together into one document. We had a positive attitude throughout the project and accepted all types of inputs and ideas without judgement. Despite one of our group members disappearing out of the blue, the rest of us worked hard on our respective roles and completed our project collaboratively. I believe that we worked well together due to our access to the messenger app as it allowed us to message one another at any time for a quick response. 
 
-## Career Plans
+## Career Plans:
 All our ideal jobs involve; working in a team environment, good communication skills and knowledge of IT skills relevant to each job. We had differing jobs from one another. Harlee aims towards an ‘IT Support help desk job’ in the IT field, whereas Andy wants to become an ‘Accounts Officer’ which is in the accounting field and Colin wishes to become a ‘Vice-President of Strategic Capture’ in the engineering field. 
 
 Each of our jobs are in different fields and require different amounts of experience in order to achieve them. While Harlee and Andy aim for a job with minimal previous experience (less than 3 years) to attain them, Colin wishes to end up with a job as vice president which requires passion to gain approximately 15 years of previous experience in the field. A position such as vice-president of a company would most likely be a job high in demand as it is high on the job hierarchy with many benefits; such as job security, good pay, etc. An ‘Accounts Officer’ job is another job which ranks highly in terms of demand.
@@ -114,12 +114,12 @@ Provide unfiltered and reliable information: Education materials and sources sho
 Educate and enhance the public on sexual health on a global scale: Let more people become exposed to sex knowledge. In order to do that, we provide our service to schools over the world through internet. 
 Advance the chatbot in the future to become more attractive, creative and convenient. Add more support, images, video, cartoon and emoji's. Develop a mobile phone website version or application. Translate into multiple languages. 
 
-## Plans and Progress
+## Plans and Progress:
 At the start of the project, we studied what a chatterbot is, its purpose, applied range and social influence. Those were completed during the IT World assignment. Then we researched the required tools, program and experience to develop the project, and learned about GitHub, website creation and html. GitHub, W3Schools and Rasa provided the related IT knowledge. Education websites and Wikipedia were the source of the vocabulary of our chatbot topic.
 
 In order to create a chatbot, machine learning tool is usually needed because natural language processing technology understands and classifies the message’s intention. The tool our group chose was Rasa. We encountered related issue during installation as the laptop didn’t have Microsoft Visual Studio, which should be a pre-requirement for Rasa installation.
 
-## Roles
+## Roles:
 
 ![Roles](roles.png)
 
@@ -131,7 +131,7 @@ Our Technical specification and Project Coordination was given to Colin since he
 
 Even though we have defined roles for our Group members, we have had a care-free attitude when it comes to giving inputs to each other's work, we functioned better when we were able to cross check and question others work, which made us confident in our project when certain questions regarding certain functions were questioned and all doubts related to it were discussed, where by the end of the discussion we would be aware of the aim of that individual and we would hence get a better idea on what they planned to achieve with their intentions. 
 
-## Scope and Limits
+## Scope and Limits:
 The Scope of the project involves being able to show a video of the ChatterBot in conversation with one of our Testers, Due to the lack of time and absolutely no experience in coding in any form whatsoever, we will not be able to provide a fully functional ChatterBot as envisioned but rather a demonstration on its current limited capability as well as more functions that we hope to include in the future as we gain the required knowledge to continue this project.
 
 Our ChatterBot is currently in its early stages of programming (Figure 2), where we are testing to see the basic functionality of our intended ChatterBot where we are trying basic welcome messages as well as topic allocation based on Sex of individual to better help people get information that are relevent for their sex.
@@ -148,10 +148,10 @@ Figure 3: ChatterBot chat Testing
 
 We would like to continue with our currently acheived progess and continue to build the ChatterBot to a point where it is able to self correct and update itself as the years go by which allows it to stand out of the competition where it will be able to incorporate (with the help of humans) new findings on information related to sex education that have been peer-reviewed and update these new data inputs to its existing information stockpile and output them with existing information with minimal faults. 
 
-## Tools and Technologies
+## Tools and Technologies:
 Chatterbots are created based on the machine learning tool, Rasa (or Rasa X). A machine learning tool is usually needed because natural language processing technology understands and classifies the message’s intention.  AI is then able to give a more appropriate response. Pre-requirement for Rasa installation is to have Python version 3.7 and Microsoft Visual Studio 2019. Rasa runs the chatbot in local server. An application, Ngrok used to obtain the HTTPS address for sharing externally. All our members have no experience on those techniques except Colin who codes Python as a hobby. Lots of reading is required before starting the project.
 
-## Testing
+## Testing:
 We can run the chatterbot through the internet or on command prompt. When a new Rasa project was created, we made sure related files (e.g. story, domain) existed. If the AI gives a wrong or empty answer, then it must have some errors in the files which causes difficulty in classifying the intent and response.
 
 When a new Rasa project was created, Andy modified the chat story, intent and response. Rasa runs the project at local server. Andy used an application called ‘Ngrok’ to convert the localhost address to HTTP and then shared it with the group.
@@ -166,22 +166,22 @@ Currently our chatterbot can provide information based on the keywords from the 
 
 Figure 5: Response data inputs.
 
-## Timeframe
+## Timeframe:
 
 ![Timeframe](timeframe.png)
 
 
-## Risks
+## Risks:
 It is planned that the use of our project will be incorporated in schools around the world as a guide for young students in sex education courses to educate them about important sex topics.  A risk associated with a program is that it requires the participant to be proactive. They may not take the opportunity to learn about sex education due to many factors. Some of these factors could include being; shy around the topic of sex education, embarrassed to seek information, unaware of the importance of sex education and scared to seek help.
 
 Despite our efforts to make the sex education chatterbot as discreet as possible, students could still be reserved when it comes to seeking sex education information. In a high school environment, there is a vast amount of pressure placed on every student to fit in. Most students may not see it as cool or socially acceptable to voluntarily seek help in sex education. As a result, it affects our program’s successfulness in educating sex education to young students because the program’s effectiveness is measured by the rate of our program’s participants.
 
-## Group Processes and Communication
+## Group Processes and Communication:
 As we have learnt from our previous assignment, our group works very well together with the use of the Facebook Messenger app which connects all our members. This app allows our team to communicate outside of class time and offers an efficient way to easily and conveniently present data, descriptions and other elements with simplicity and ease. We will therefore continue to use this in the future throughout this assignment in order to stay on track with our work and to complete our assignment on time. At the beginning of the third assignment’s working period, we cooperatively divided up the work equally into three parts for our three group members. This step was initiated during a tutorial as it was easier to perform this in person as opposed to splitting up the workload over the group chat. Assigning the assignment tasks in person allowed us to ensure that everyone knew their responsibilities and also gave us the opportunity to speak up if we were unable to do a particular part or had other essential commitments. 
 
 We can focus on our assigned roles for the different sections of the assignment, with the assistance of other group members, if necessary, through the messenger app. Alternatively, if there is a situation requiring a meeting involving face-to-face contact outside of class time, this can be coordinated through the group chat on Facebook.
 
-# Skills and Jobs
+# Skills and Jobs:
 The following are the four position types with a description of their roles: 
 1.     Leader: A leader allocates each member’s role, divides their job amount and set work schedule. It’s important to have an understanding of the project direction to ensure everyone in on track with their work and allows us to work towards a set work deadline. With a work deadline in place, the group is able to have a high chance of completing the project by the due date. 
 
@@ -191,10 +191,10 @@ The following are the four position types with a description of their roles:
 
 4.     IT technology: Ideally every member should share the similar quality of IT knowledge. Only one or two people have the main control of the IT tools to avoid information asymmetry problem caused by four persons.  
 
-## Feedback
+## Feedback:
 
 
-# Group Reflection
+# Group Reflection:
 
 **What went well**
 The group members did their allocated sections well and within the given time, The report formation and other related tasks such as interviews were successfully completed thanks to the group members, we were able to push through even with only 4 active members without too much of a hassle. The teamwork of this group was excellent, where each member took the initiative in getting the due tasks done even with other course assignments and projects due at the same time.
