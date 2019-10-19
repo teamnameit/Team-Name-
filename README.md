@@ -60,9 +60,22 @@ My name is Andy Lo, was born in August of 1997. My Student ID is S399772 and my 
 Individual website: [Andy's website](https://andy3599772.github.io/) 
 
 
+## Group Processes
+Our group worked remarkably with access to Facebook messenger to communicate progress on our individually assigned roles as well as a google drive repository set for all members to submit their work and eventually add together into one document. We had a positive attitude throughout the project and accepted all types of inputs and ideas without judgement. Despite one of our group members disappearing out of the blue, the rest of us worked hard on our respective roles and completed our project collaboratively. I believe that we worked well together due to our access to the messenger app as it allowed us to message one another at any time for a quick response. 
 
+## Career Plans
+All our ideal jobs involve; working in a team environment, good communication skills and knowledge of IT skills relevant to each job. We had differing jobs from one another. Harlee aims towards an ‘IT Support help desk job’ in the IT field, whereas Andy wants to become an ‘Accounts Officer’ which is in the accounting field and Colin wishes to become a ‘Vice-President of Strategic Capture’ in the engineering field. 
 
+Each of our jobs are in different fields and require different amounts of experience in order to achieve them. While Harlee and Andy aim for a job with minimal previous experience (less than 3 years) to attain them, Colin wishes to end up with a job as vice president which requires passion to gain approximately 15 years of previous experience in the field. A position such as vice-president of a company would most likely be a job high in demand as it is high on the job hierarchy with many benefits; such as job security, good pay, etc. An ‘Accounts Officer’ job is another job which ranks highly in terms of demand.
+With Harlee’s ideal job being the only job based in the IT field he requires many skills sets of IT-specific skills. These include many of the top listed skills in high demand such as; SQL, Java, JavaScript, Microsoft Windows, etc. Andy’s job is based in the accounting field; however, he would also require IT-specific skills such as how to operate basic computer programs. Microsoft Windows, Project management and Building relationships is high on the list of skill demand. As an engineer, Colin would need require skills in graphic design, which is ranked lower on the list compared to the other skills required for the other two jobs. In general, communication skills are required for all our ideal jobs as communication is important in teams of sought and demanded. Other general skills we would all need is problem solving, teamwork and planning.
 
+# Tools
+
+Group Website: [Group](https://teamnameit.github.io/TeamName/) 
+
+Github Respository: [Repository](https://github.com/teamnameit/TeamName) 
+
+Based on our success with assignment 2, using Google Drive as our repository, we decided to use it once again for our third assignment. We used GitHub to store pictures we needed to implement onto our website, however we used google drive in conjunction with google docs files in order to collaboratively construct our group project. We set up an ‘IT project’ folder which was shared to all members, as well as designating roles to everyone to ensure everyone knew what to do. We decided that google docs was the best option as it was a familiar repository that all group members were familiar with and knew how to operate. Using google docs made it easier for others to view and amend anything that needs changing. Also, we had a group chat on Facebook messenger which we used to keep everyone on track and allowed for any communication needed between members regarding the project. These tools assisted in setting goals and a timeline to give us a clear vision of where we were headed in terms of project progress. We suggested many kinds of ideas during our discussions but fortunately we were still able to concentrate without disruptions or conflict. The settlement for the idea requires patience and research in our personal time. The fact that we were able to work smoothly throughout the course of the project shows how level of commitment and teamwork.
  
 
 # Group Reflection
