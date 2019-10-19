@@ -168,7 +168,7 @@ Figure 5: Response data inputs.
 
 ## Timeframe:
 
-![Timeframe](timeframe.png)
+![Timeframe](timeframe.PNG)
 
 
 ## Risks:
