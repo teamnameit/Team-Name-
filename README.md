@@ -98,6 +98,8 @@ Similar products currently available are a chatbot called ‘Roo’ by R.age (Fi
 
 ![Roo](roo.png)
 
+Figure 1: Roo ChatterBot
+
 The difference between ‘Roo’ and our chatbot would be that the information being given would have been verified by the UN as well as other related and UN-Approved NGOs whereas ‘Roo’ is an NGO verified Chatbot with no official verification by UN. Other differences include more Detail, information and visually oriented instead of being “Kids-Friendly” like ‘Roo’, it is in our best interests that we become more open to discussion without unnecessary filters which is counter-intuitve to the goal of such projects, we are trying to open up to each other about Sex Education, not teach half of whats relevent and prepare teenagers and Adults to the outside world.
 
 ## Detailed Description
