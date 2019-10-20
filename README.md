@@ -93,11 +93,11 @@ These fit well with current IT trends as more and more countries become IT orien
 
 Future employers would be able to recognise that we are capable of coming up with relatable as well as useful ideas that would solve current-day issues in our planet, they would recognise that we have understood a gap in the market and that we have come up with a suitable and cost-effective product that would redue the global expenditure currently spent on pursuing Sex Education. It would also show employers how bold and open-minded our group is, which is an advantage since most of the greatest ideas in history came from people and groups who were bold and open-minded, which would help us personally in our respective fields after we graduate.
 
-![Aids stats 2010](aids 2010.png)
+![Aids stats 2010](aids 2010.PNG)
 
 Global trend in HIV/AIDS infections: 2010
 
-![Aids stats 2018](aids 2018.png)
+![Aids stats 2018](aids 2018.PNG)
 
 Global trend in HIV/AIDS infections: 2018
 
