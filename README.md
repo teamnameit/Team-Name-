@@ -239,7 +239,7 @@ We achieved the current developed project deliverables because of utilizing a st
 **At Least one thing you have learned about groups?**
 One important experience that I have gained from the project is that ‘you have to make and follow the team schedule even though you are carrying a weakness’. We all do not have any professional IT knowledge. If we just worry and do nothing, we surely could not solve the problem and complete the project. Instead, we have tried our best to follow the guidelines, book and other researches. We worked together, discussed and analyzed the project.  In a group, there may be different ideas, but with the many suggestions, we decided to follow the most appropriate direction. We set up a practical project plan and reviewed it regularly on every step we made. Although the project may not be the perfect one, we have learnt many things and in the end we were able to produce some deliverables before the deadline of the project.
 
-## Harlee
+## Harlee:
 
 **What went well?**
 There are many factors that went well during the duration of this assignment. One of these is that our group was able to work together with little to no issues. Troubles that came up was easily solved through communication through the group chat and we were able to continue moving on completing this assignment. I believe that we worked well together as a team because we had excellent communication all throughout the assignment. I believe this is because we allocated our roles very early on in the assignment which let us stay on track over the course of the assignment. 
