@@ -87,11 +87,20 @@ currently available education in regards to sex education, This is mostly appare
 We are hoping to integrate the chatterbot to official UN and UN-Backed websites which would be accessible by anyone on the planet which would widen the number of people that would be able to gain access to reliable information and not be misled by political forces that are too close-minded to see the benefits of Sex Education. Also we plan to distribute our chatterbot to sex education programs in schools all around the world. This will give young students the support and knowledge they may need growing up.
 
 ## Motivation:
-Every member in our group come from Asia, as much as we adore our respective countries and planet, we also see room for improvements in currently standing sectors of our country, one of which were the lack of education in Sexual Health and related educations in our native countries education syllabus. We saw the positive effects on integrating a well founded Sex education into the mainstream education syllabus which helped reduce the  number of teenage pregnancies in those countries that had it, we believe our idea is a legitimate method of providing Sex Ed access to those who require or want it without having to endure stiff and close-minded political backlash from certain conservative groups in those countries. we would effectively be avoiding such obstacles since this would not have to be integrated into the mainstream syllabus of countries where this would cause issues but can be advertised as a possible location for help and advice for Se Education for those who want it.
+Every member in our group come from Asia, as much as we adore our respective countries and planet, we also see room for improvements in currently standing sectors of our country, one of which were the lack of education in Sexual Health and related educations in our native countries education syllabus. We saw the positive effects on integrating a well founded Sex education into the mainstream education syllabus which helped reduce the  number of teenage pregnancies in those countries that had it, we believe our idea is a legitimate method of providing Sex Ed access to those who require or want it without having to endure stiff and close-minded political backlash from certain conservative groups in those countries. we would effectively be avoiding such obstacles since this would not have to be integrated into the mainstream syllabus of countries where this would cause issues but can be advertised as a possible location for help and advice for Sex Education for those who want it.
 
 These fit well with current IT trends as more and more countries become IT oriented where such governments are funding to add IT services to all existing government offices and processes where Education is also included in, With the attempt to integrate IT with Education to enhance students learning capabilities, we will not need to fund setting up the foundation for our Project ideas since most countries have already started or have completed in setting up the necessary IT infrastructure in education.
 
 Future employers would be able to recognise that we are capable of coming up with relatable as well as useful ideas that would solve current-day issues in our planet, they would recognise that we have understood a gap in the market and that we have come up with a suitable and cost-effective product that would redue the global expenditure currently spent on pursuing Sex Education. It would also show employers how bold and open-minded our group is, which is an advantage since most of the greatest ideas in history came from people and groups who were bold and open-minded, which would help us personally in our respective fields after we graduate.
+
+![Aids stats 2010](aids 2010.png)
+
+Global trend in HIV/AIDS infections: 2010
+
+![Aids stats 2018](aids 2018.png)
+
+Global trend in HIV/AIDS infections: 2018
+
 
 ## Landscape:
 Similar products currently available are a chatbot called ‘Roo’ by R.age (Figure 1) which is available on ‘Planned Parenthood’ Website as well as on predator.my, This chatbot also talks about Sex Education to kids, however this chatbot is kids-friendly and as a result, the information it may provide maybe toned down and less descriptive, which is opposite to what we envision for our Chatbot, We see that not being descriptive or informative enough makes the situation more confusing even if the intentions are good, the best way to make sure Sex Education is effective is by breaking down the censorship barrier so that realistic and all the uselful information about our bodies is taught to kids without information being filtered, kids will always find information on Sex regardless of the existence of chatbots or other related educational services, hence we feel that it would be better for us to take lead on this by providing transparent, useful and visually backed information would better prepare teenagers for the realities of Sexual Health and would increase awareness and preparedness for such encounters which can reduce the number of mishaps that curretly occur with Teenagers and Adults alike.
@@ -194,19 +203,27 @@ The following are the four position types with a description of their roles:
 ## Feedback:
 
 
-# Group Reflection:
+# Group Reflection
 
-**What went well**
-The group members did their allocated sections well and within the given time, The report formation and other related tasks such as interviews were successfully completed thanks to the group members, we were able to push through even with only 4 active members without too much of a hassle. The teamwork of this group was excellent, where each member took the initiative in getting the due tasks done even with other course assignments and projects due at the same time.
+## Colin:
 
-**What could be improved**
-If all group members were in constant contact that would reduce the inconveniences faced by the whole team since one absent member will mean more work being allocated to everyone else which is unfair and with the high workloads already placed I believe it is imperative that each member carry their own weight, including myself.
+**What went well?**
+The overall project I believe is a success since we not only came up with a useful idea for current times but we also managed to make a basic program of it to demonstrate, although the full functions are not available as previously planned due to lack of knowledge in making ChatterBots as well as the complexity in actually creating such an Application within the time given. 
 
-**At least one thing that was surprising**
-The level of expertise required to make any of our project ideas become a reality, the factors we have to consider as well as figuring out how to start in making this project idea. The software and the complexity of the idea determined if the project was actually achievable within the given timespan.
+Our team also managed to work and function as a team even though we are only 3 members, which is a huge disadvantage compared to other groups which have 4 to 6 working members in their group, although we were originally 4 members, one of the initial members decided to drop out without any notices which left us lagging behind workload and task completions for a short time, but the rest of the team banded together to get everything done on top of their other course workloads, which shows teamwork and excellent coordination between us.
 
-**At least one thing that you have learned about groups**
-The level of responsibility a team leader must have is immense, there's alot of factors to consider as well as obstacles faced during the course of this project, and finding answers when you are placed on the spot as a team leader is anxiety-inducing as well as requiring a high level of tolerance and patience. All of which will be tested throughout the course of this project. Teamwork is also paramount to the successful completion of any project and without teamwork, the overall morale and efficiency of the group lowers which affects team performance.
+**What Could be improved?**
+
+I believe having prior-knowledge on programming would have made our team a bit more able in creating a fully-functioning ChatterBot instead of a basic one, which we currently have. Further experience in programming in ChatterBot related software or in any programming software would have made us more confident in our project which would have helped us in motivating ourselves to get the ChatterBot in Full functioning capacity.
+
+**At Least one thing that was surprising?**
+
+The complexity in creating such an application surprised us including the time it took to create one line of code and the different functions each input enabled us do. We also underestimated the time it took to upload things to github and to our website since all 3 members of the group had done their editing for assignment 1 in methods that did not match each other and hence there were confusions on what method was best and most efficient given the time constraints. 
+
+**At Least one thing you have learned about groups?**
+
+I have learnt how hard it is to get things done when not everyone is on the same page as you. All things must be considered when allocating tasks to members from their expertise in programming to the amount of time they can allocate to this subject as well as accounting for their assignments from other Courses they have enrolled in. All of this comes down to figuring out ways to manage time and work allocation in an efficient and fast paced method where we are able to complete all requirements for each assignment and be able to submit files on or before its due date. 
+
 
 
 
