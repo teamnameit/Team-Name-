@@ -225,6 +225,33 @@ The complexity in creating such an application surprised us including the time i
 
 I have learnt how hard it is to get things done when not everyone is on the same page as you. All things must be considered when allocating tasks to members from their expertise in programming to the amount of time they can allocate to this subject as well as accounting for their assignments from other Courses they have enrolled in. All of this comes down to figuring out ways to manage time and work allocation in an efficient and fast paced method where we are able to complete all requirements for each assignment and be able to submit files on or before its due date. 
 
+## Andy:
+
+**What went well?**
+Our team has a clear objective of creating a chatbot for educational purposes which has been our idea set since assignment 2. We adhered to this objective and concentrate in our work without wasting time to explore other objectives when we encounter difficulties. We have been working hard to implement the project’s functions and outcome. The current developed version of chatbot is able to provide basic question-and-answer functions. We have planned to input a voice-to-text function for it, however the related software is quite complex and we are inexperienced in programming, it may only be completed with further research and analysis.
+
+**What Could be improved?**
+It is unexpected that to create a chatbot would involve a huge amount of tools and technical knowledge, such as visual studio, RASA’s separated story and domain files, Windows command prompt programming language and much more. The searching, obtaining and understanding of the relevant information surprisingly took us days and weeks. That feels like reading an unfamiliar law book starting from page one. Our group might make the chatbot better by having the voice-to-text function or other advanced features if we had some pre required information technology project experience and programming knowledge.  
+
+**At Least one thing that was surprising?**
+We achieved the current developed project deliverables because of utilizing a stable shareable project repository framework and having regular meetings in and out of class.  Despite the inconsistent and inadequate contribution of one of our group member, William during the early stage of the project, which caused an overload of work and confusion to other group mates at the end of assignment 2, we could still recover quickly after his absent confirmation from the tutor, and continue the progress smoothly.
+
+**At Least one thing you have learned about groups?**
+One important experience that I have gained from the project is that ‘you have to make and follow the team schedule even though you are carrying a weakness’. We all do not have any professional IT knowledge. If we just worry and do nothing, we surely could not solve the problem and complete the project. Instead, we have tried our best to follow the guidelines, book and other researches. We worked together, discussed and analyzed the project.  In a group, there may be different ideas, but with the many suggestions, we decided to follow the most appropriate direction. We set up a practical project plan and reviewed it regularly on every step we made. Although the project may not be the perfect one, we have learnt many things and in the end we were able to produce some deliverables before the deadline of the project.
+
+## Harlee
+
+**What went well?**
+There are many factors that went well during the duration of this assignment. One of these is that our group was able to work together with little to no issues. Troubles that came up was easily solved through communication through the group chat and we were able to continue moving on completing this assignment. I believe that we worked well together as a team because we had excellent communication all throughout the assignment. I believe this is because we allocated our roles very early on in the assignment which let us stay on track over the course of the assignment. 
+
+**What could be improved?**
+I believe that our group does not need any improvements in terms of communication as we were able to complete all of our work by the set dates and the assignment in its entirety by the final due date. Although it would have helped our assignment speed immensely if we had any existing knowledge about information technology beforehand, however the reality was that none of us had any knowledge on the topic before the assignment. However, in the end it didn't effect too much as we ended up finishing everything and did a pretty good job at it.
+
+**At least one thing that was surprising?**
+One thing that was surprising was how we were able to complete this assignment, coming in without any prior knowledge to the IT world or information technology in general. Despite this, we were able to work collaboratively and complete our individual sections and parts of the assignment. 
+
+**At least one thing that you have learned about groups?**
+I have learnt that although group chatting through the messenger app is extremely useful when relaying information to one another and communicating in relation to the assignment, it is also imperative to meet up at least once a week to further communicate and make sure that everything is in order. Face-to-face communication is important because it allows for easier communication. Sometimes, it may be easier to solve an issue through meeting up in person and discussing it in lieu of talking about it through online messaging.
 
 
 
